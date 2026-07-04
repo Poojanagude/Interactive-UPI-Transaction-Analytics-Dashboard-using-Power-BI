@@ -29,47 +29,46 @@ Power BI Concepts Covered
 
 ## concept that I implemented.
 
-Data Preparation
-Data Cleaning
-Data Transformation
-Data Modeling
-DAX
-Custom Measures
-Aggregations
-Calculated Columns
-Visualization
-Line Chart
-Clustered Column Chart
-Matrix Visual
-Cards
-Slicers
-Interactive Features
-Synced Slicers
-Bookmarks
-Buttons
-Page Navigation
-Show/Hide Visuals
-Dynamic View Switching
-Cross Filtering
-Formatting
-Conditional Formatting
-Data Labels
-Custom Themes
+Data Preparation,
+Data Cleaning,
+Data Transformation,
+Data Modeling,
+DAX,
+Custom Measures,
+Aggregations,
+Calculated Columns,
+Visualization,
+Line Chart,
+Clustered Column Chart,
+Matrix Visual,
+Cards,
+Slicers,
+Interactive Features,
+Synced Slicers,
+Bookmarks,
+Buttons,
+Page Navigation,
+Show/Hide Visuals,
+Dynamic View Switching,
+Cross Filtering,
+Formatting,
+Conditional Formatting,
+Data Labels,
+Custom Themes,
 
 
 The dashboard includes synchronized slicers that allow users to filter data by
-
-Bank Name Sent
-Bank Name Received
-City
-Device Type
-Gender
-Age Group
-Merchant Name
-Payment Method
-Purpose
-Transaction Type
-Bookmark Navigation
+Bank Name Sent,
+Bank Name Received,
+City,
+Device Type,
+Gender,
+Age Group,
+Merchant Name,
+Payment Method,
+Purpose,
+Transaction Type,
+Bookmark Navigation,
 
 Buttons are used to switch between
 
