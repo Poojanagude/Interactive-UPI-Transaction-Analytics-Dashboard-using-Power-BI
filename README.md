@@ -1,5 +1,7 @@
 ##Interactive-UPI-Transaction-Analytics-Dashboard-using-Power-BI
 Interactive UPI Transaction Analysis Dashboard built with Power BI. Features data modeling, DAX, Power Query, synced slicers, bookmarks, conditional formatting, and dynamic visualizations to analyze transaction trends, balances, and customer behavior for data-driven business decisions.
+##Dashboard Link:https://app.powerbi.com/groups/me/reports/09fbf243-3e54-46b2-9786-5010dcfde1d8/bdb1eaa478f0f39b9a0d?experience=power-bi&bookmarkGuid=ca8d471a7951e8046207
+
 #Project Overview
 
 This project focuses on analyzing UPI transaction data to understand transaction trends, customer behavior, payment methods, device usage, bank-wise transactions, and monthly balances. The dashboard provides an interactive experience that allows users to explore transaction data through filters, bookmarks, synced slicers, and multiple visualizations.
