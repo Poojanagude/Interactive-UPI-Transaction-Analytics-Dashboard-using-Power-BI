@@ -1,16 +1,16 @@
-# Interactive-UPI-Transaction-Analytics-Dashboard-using-Power-BI
+##Interactive-UPI-Transaction-Analytics-Dashboard-using-Power-BI
 Interactive UPI Transaction Analysis Dashboard built with Power BI. Features data modeling, DAX, Power Query, synced slicers, bookmarks, conditional formatting, and dynamic visualizations to analyze transaction trends, balances, and customer behavior for data-driven business decisions.
 #Project Overview
 
 This project focuses on analyzing UPI transaction data to understand transaction trends, customer behavior, payment methods, device usage, bank-wise transactions, and monthly balances. The dashboard provides an interactive experience that allows users to explore transaction data through filters, bookmarks, synced slicers, and multiple visualizations.
 
-#Business Problem
+##Business Problem
 
 Digital payment platforms generate millions of transactions every day. Businesses and financial institutions need a way to monitor transaction trends, identify customer behavior patterns, and analyze balances across different dimensions.
 
 The objective of this project is to transform raw transaction data into meaningful insights that support better business decisions.
 
-#Objectives
+##Objectives
 Analyze monthly transaction trends
 Monitor remaining account balance
 Compare transaction amount across months
@@ -25,7 +25,7 @@ DAX
 Excel
 Power BI Concepts Covered
 
-#concept that I implemented.
+##concept that I implemented.
 
 Data Preparation
 Data Cleaning
@@ -82,9 +82,7 @@ Matrix Analysis
 
 A Matrix visual is included with Conditional Formatting to highlight important transaction values and remaining balances across different cities and months.
 
-#Key Insights
-
-Examples:
+##Key Insight
 
 Monthly transaction amounts remain relatively stable throughout the year.
 Remaining balance fluctuates across different months.
@@ -93,7 +91,7 @@ Interactive slicers allow quick comparison across cities, banks, and payment met
 Bookmarks improve dashboard usability by allowing users to switch between multiple chart views.
 Business Value
 
-#This dashboard helps decision-makers:
+##This dashboard helps decision-makers:
 
 Monitor transaction trends
 Compare bank performance
@@ -144,11 +142,11 @@ Used Conditional Formatting to highlight high-value transaction amounts and rema
 
 4️⃣ Interactive Filters
 Crop the top portion showing only the slicers.
-#Synced_Slicers On Page 1
+##Synced_Slicers On Page 1
 
 <img width="1812" height="783" alt="Image" src="https://github.com/user-attachments/assets/f622c0d0-913f-44fe-bfdc-23d73c374105" />
 
-#Synced_Slicers On Page 2
+##Synced_Slicers On Page 2
 
 <img width="1816" height="773" alt="Image" src="https://github.com/user-attachments/assets/e6cdb6a0-36b2-4d03-b771-35fe9fbfe232" />
 
