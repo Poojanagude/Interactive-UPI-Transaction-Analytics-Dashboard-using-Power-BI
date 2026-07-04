@@ -1,9 +1,6 @@
 # Interactive-UPI-Transaction-Analytics-Dashboard-using-Power-BI
 Interactive UPI Transaction Analysis Dashboard built with Power BI. Features data modeling, DAX, Power Query, synced slicers, bookmarks, conditional formatting, and dynamic visualizations to analyze transaction trends, balances, and customer behavior for data-driven business decisions.
-![UPI Transaction Analysis Dashboard](https://github.com/user-attachments/assets/e9b6a36d-2a3e-484d-abd0-b8f0c6979a22)
-
-
-Project Overview
+#Project Overview
 
 This project focuses on analyzing UPI transaction data to understand transaction trends, customer behavior, payment methods, device usage, bank-wise transactions, and monthly balances. The dashboard provides an interactive experience that allows users to explore transaction data through filters, bookmarks, synced slicers, and multiple visualizations.
 
@@ -13,7 +10,7 @@ Digital payment platforms generate millions of transactions every day. Businesse
 
 The objective of this project is to transform raw transaction data into meaningful insights that support better business decisions.
 
-Objectives
+#Objectives
 Analyze monthly transaction trends
 Monitor remaining account balance
 Compare transaction amount across months
@@ -28,7 +25,7 @@ DAX
 Excel
 Power BI Concepts Covered
 
-#concept That I  implemented.
+#concept that I implemented.
 
 Data Preparation
 Data Cleaning
@@ -56,18 +53,7 @@ Formatting
 Conditional Formatting
 Data Labels
 Custom Themes
-Tooltips
-Business Analysis
-Monthly Transaction Analysis
-Balance Analysis
-Merchant Analysis
-Bank Analysis
-Payment Method Analysis
-Device Type Analysis
-City-wise Analysis
-Age Group Analysis
-Dashboard Features
-Interactive Filters
+
 
 The dashboard includes synchronized slicers that allow users to filter data by
 
@@ -96,7 +82,7 @@ Matrix Analysis
 
 A Matrix visual is included with Conditional Formatting to highlight important transaction values and remaining balances across different cities and months.
 
-Key Insights
+#Key Insights
 
 Examples:
 
@@ -107,7 +93,7 @@ Interactive slicers allow quick comparison across cities, banks, and payment met
 Bookmarks improve dashboard usability by allowing users to switch between multiple chart views.
 Business Value
 
-This dashboard helps decision-makers:
+#This dashboard helps decision-makers:
 
 Monitor transaction trends
 Compare bank performance
@@ -131,50 +117,40 @@ Screenshots to Upload
 
 1️⃣ Dashboard Overview
 
-Upload your main dashboard showing all slicers and the line chart.
-
-Rename:
-
-01_Dashboard_Overview.png
-## Dashboard Overview
+ ## line Chart Amount
 
 ![UPI Transaction Dashboard](https://github.com/user-attachments/assets/cab2f3d6-5610-4c1d-8f72-200e92555ec0)
 
 
 2️⃣ Bookmark Feature
+ Used Power BI Bookmarks and Buttons to switch between multiple visualizations without changing pages.
 
-Rename:
-
-## 📊 Dashboard Overview
+## 📊 Column Chart Amount
 
 ![UPI Transaction Analysis Dashboard](https://github.com/user-attachments/assets/e9b6a36d-2a3e-484d-abd0-b8f0c6979a22)
 
-Mention:
 
-Used Power BI Bookmarks and Buttons to switch between multiple visualizations without changing pages.
+## Line Chart Amount
+<img width="1496" height="725" alt="Image" src="https://github.com/user-attachments/assets/fd2dc2c5-0538-4624-86b2-b8ed8c46525c" />
+
+## 📊 Column Chart Amount
+<img width="1545" height="720" alt="Image" src="https://github.com/user-attachments/assets/a4effe28-f72e-4dac-96aa-c8c5b3db51e9" />
 
 3️⃣ Matrix with Conditional Formatting
-
-Upload the matrix visual.
-
-Rename:
-
-<img width="1471" height="720" alt="image" src="https://github.com/user-attachments/assets/d3b741c8-e733-4638-8ae2-61cdeac874c7" />
-
-03_Conditional_Formatting.png
-
-Mention:
-
 Used Conditional Formatting to highlight high-value transaction amounts and remaining balances.
 
+<img width="1593" height="793" alt="Image" src="https://github.com/user-attachments/assets/33de8e22-61a3-4248-b0f8-5a06ce813858" />
+
+
 4️⃣ Interactive Filters
-
 Crop the top portion showing only the slicers.
+#Synced_Slicers On Page 1
 
-Rename:
+<img width="1812" height="783" alt="Image" src="https://github.com/user-attachments/assets/f622c0d0-913f-44fe-bfdc-23d73c374105" />
 
-04_Synced_Slicers.png
+#Synced_Slicers On Page 2
 
-Mention:
+<img width="1816" height="773" alt="Image" src="https://github.com/user-attachments/assets/e6cdb6a0-36b2-4d03-b771-35fe9fbfe232" />
 
 Implemented Synced Slicers for consistent filtering across visuals.
+
