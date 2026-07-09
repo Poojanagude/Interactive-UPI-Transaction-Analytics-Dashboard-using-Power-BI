@@ -4,7 +4,7 @@ Interactive UPI Transaction Analysis Dashboard built with Power BI. Features dat
 
 ## Project Overview
 
-This project focuses on analyzing UPI transaction data to understand transaction trends, customer behavior, payment methods, device usage, bank-wise transactions, and monthly balances. The dashboard provides an interactive experience that allows users to explore transaction data through filters, bookmarks, synced slicers, and multiple visualizations.
+"The main business problem was that UPI transaction data contains thousands of records, making it difficult for management to quickly understand transaction trends and customer payment behavior. Analyzing this data manually takes a lot of time and effort. So, I built an interactive Power BI dashboard that brings all the key information into one place. It helps management easily monitor transaction performance, compare data across banks, cities, payment methods, and customer segments, and make faster, data-driven business decisions."
 
 ## Business Problem
 
@@ -137,20 +137,21 @@ Screenshots to Upload
 <img width="1332" height="787" alt="image" src="https://github.com/user-attachments/assets/891dd1ad-4f4a-4f34-abb6-a08bfe9c154e" />
 
 
-3️⃣ Matrix with Conditional Formatting
+3️⃣## Matrix with Conditional Formatting
 Used Conditional Formatting to highlight high-value transaction amounts and remaining balances.
 
 <img width="1593" height="793" alt="Image" src="https://github.com/user-attachments/assets/33de8e22-61a3-4248-b0f8-5a06ce813858" />
 
 
-4️⃣ Interactive Filters
+4️⃣ ## Interactive Filters
 Crop the top portion showing only the slicers.
-##Synced_Slicers On Page 1
+
+## Synced_Slicers On Page 1
 
 <img width="1363" height="756" alt="image" src="https://github.com/user-attachments/assets/ee5ce6d6-20c5-4334-a02f-1239e04bb2b1" />
 
 
-##Synced_Slicers On Page 2
+## Synced_Slicers On Page 2
 
 <img width="1321" height="738" alt="image" src="https://github.com/user-attachments/assets/085c06e2-f1d7-416b-a70a-65f18cc7e52f" />
 
