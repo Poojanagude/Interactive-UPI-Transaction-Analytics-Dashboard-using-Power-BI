@@ -115,9 +115,10 @@ Screenshots to Upload
 
 1️⃣ Dashboard Overview
 
- ## line Chart Amount
+ ## Transaction By Month line Chart Amount
 
-![UPI Transaction Dashboard](https://github.com/user-attachments/assets/cab2f3d6-5610-4c1d-8f72-200e92555ec0)
+<img width="1865" height="856" alt="image" src="https://github.com/user-attachments/assets/23f289e3-2ecb-4299-a976-7085b88b60b9" />
+
 
 
 2️⃣ Bookmark Feature
@@ -125,14 +126,16 @@ Screenshots to Upload
 
 ## 📊 Column Chart Amount
 
-![UPI Transaction Analysis Dashboard](https://github.com/user-attachments/assets/e9b6a36d-2a3e-484d-abd0-b8f0c6979a22)
+<img width="1417" height="862" alt="image" src="https://github.com/user-attachments/assets/de6e568a-4b66-46bc-8ff7-b04f3e476206" />
 
 
-## Line Chart Amount
-<img width="1496" height="725" alt="Image" src="https://github.com/user-attachments/assets/fd2dc2c5-0538-4624-86b2-b8ed8c46525c" />
 
-## 📊 Column Chart Amount
-<img width="1545" height="720" alt="Image" src="https://github.com/user-attachments/assets/a4effe28-f72e-4dac-96aa-c8c5b3db51e9" />
+## Balance By Line Chart 
+<img width="1347" height="778" alt="image" src="https://github.com/user-attachments/assets/5a6fb207-23bf-4654-9358-7b9de5d7e5b0" />
+
+## 📊 Balance By Column Chart 
+<img width="1332" height="787" alt="image" src="https://github.com/user-attachments/assets/891dd1ad-4f4a-4f34-abb6-a08bfe9c154e" />
+
 
 3️⃣ Matrix with Conditional Formatting
 Used Conditional Formatting to highlight high-value transaction amounts and remaining balances.
@@ -144,11 +147,12 @@ Used Conditional Formatting to highlight high-value transaction amounts and rema
 Crop the top portion showing only the slicers.
 ##Synced_Slicers On Page 1
 
-<img width="1812" height="783" alt="Image" src="https://github.com/user-attachments/assets/f622c0d0-913f-44fe-bfdc-23d73c374105" />
+<img width="1363" height="756" alt="image" src="https://github.com/user-attachments/assets/ee5ce6d6-20c5-4334-a02f-1239e04bb2b1" />
+
 
 ##Synced_Slicers On Page 2
 
-<img width="1816" height="773" alt="Image" src="https://github.com/user-attachments/assets/e6cdb6a0-36b2-4d03-b771-35fe9fbfe232" />
+<img width="1321" height="738" alt="image" src="https://github.com/user-attachments/assets/085c06e2-f1d7-416b-a70a-65f18cc7e52f" />
 
 Implemented Synced Slicers for consistent filtering across visuals.
 
