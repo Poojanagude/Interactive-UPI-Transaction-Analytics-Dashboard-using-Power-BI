@@ -4,13 +4,11 @@ Interactive UPI Transaction Analysis Dashboard built with Power BI. Features dat
 
 ## Project Overview
 
-"The main business problem was that UPI transaction data contains thousands of records, making it difficult for management to quickly understand transaction trends and customer payment behavior. Analyzing this data manually takes a lot of time and effort. So, I built an interactive Power BI dashboard that brings all the key information into one place. It helps management easily monitor transaction performance, compare data across banks, cities, payment methods, and customer segments, and make faster, data-driven business decisions."
+"This project is an Interactive UPI Transaction Analytics Dashboard built using Power BI. The objective was to transform raw UPI transaction data into meaningful business insights. I performed data cleaning and transformation using Power Query, created DAX measures for key KPIs, and designed an interactive dashboard with synced slicers, bookmarks, conditional formatting, and multiple visualizations. The dashboard helps users analyze transaction trends, payment behavior, bank-wise performance, and remaining balances across different customer segments. Overall, it enables faster reporting and supports data-driven business decisions."
 
 ## Business Problem
 
-Digital payment platforms generate millions of transactions every day. Businesses and financial institutions need a way to monitor transaction trends, identify customer behavior patterns, and analyze balances across different dimensions.
-
-The objective of this project is to transform raw transaction data into meaningful insights that support better business decisions.
+"The main business problem was that UPI transaction data contains thousands of records, making it difficult for management to quickly understand transaction trends and customer payment behavior. Analyzing this data manually takes a lot of time and effort. So, I built an interactive Power BI dashboard that brings all the key information into one place. It helps management easily monitor transaction performance, compare data across banks, cities, payment methods, and customer segments, and make faster, data-driven business decisions."
 
 ## Objectives
 Analyze monthly transaction trends
